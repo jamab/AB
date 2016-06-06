@@ -2,6 +2,7 @@ package printscreen;
 
 public class subtract {
 	public static void main(String args[]){
-		System.ou
+		System.out.println("Enter two integers to calculate their sum ");
+		}
 
 }
